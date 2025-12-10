@@ -1,5 +1,7 @@
 # 📁 MeuCatálogo
 
+# ➡️ [`DOWNLOAD`](https://github.com/raphex/meucatalogo-updates/releases/download/v1.0.2/MeuCatalogo_Setup.exe)
+
 **MeuCatálogo** é um aplicativo de desktop desenvolvido para **catalogar, organizar e localizar arquivos rapidamente** em seu computador.
 
 Ele cria um banco de dados local com os metadados dos seus arquivos, permitindo buscas instantâneas, filtros avançados e identificação de arquivos duplicados.
